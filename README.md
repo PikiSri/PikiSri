@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pooja Sri
--  I’m interested in FrontEnd Development
--  I’m currently learning Javascript and React
+-  I’m interested in DSA and Problem Solving
+-  I’m currently learning Javascript and DSA
 
 
